@@ -4,7 +4,7 @@
 hackintosh
 
 
-10.13.6 ：
+macOS 10.13.6 ：
 
 声卡显卡网卡工作
 Sound card graphics card works
@@ -28,12 +28,16 @@ Custom version of USB port
 ----------------------------------
 
 其他X99主板Other X99 motherboards
+
        Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-GTX1070.zip
        
 USBInjectAll.kext版本
 USBInjectAll.kext version
 
 # Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD RX590
+
+
+macOS 10.14.6 ：
 
 声卡显卡网卡工作
 Sound card graphics card works
