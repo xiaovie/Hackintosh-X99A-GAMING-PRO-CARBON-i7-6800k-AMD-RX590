@@ -57,7 +57,7 @@ Update 24th:
  Update WhateverGreen.kext to 1.3.8
  Update AppleALC.kext to 1.4.8
  Change the memory correction driver to OsxAptioFix2Drv-64.efi (if you can't start, please see the memory correction section later)
-Changes to Mojave 10.14.6 on March 18:
+ Changes to Mojave 10.14.6 on March 18:
 
  Added X99_SSDT-_L0D.aml patch, ACPI injected a related supporting patch
  Added X99_SSDT-IRQ.aml patch, ACPI injected four matching patches
