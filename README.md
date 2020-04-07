@@ -105,3 +105,4 @@ HDMI output DP output test is works<br>
 ![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/usb.png)
 ![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/run.jpg)
 ![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/HEVC.jpg)
+![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/cpu.png)
