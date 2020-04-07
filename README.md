@@ -100,3 +100,8 @@ HDMI output DP output test is works<br>
  
             Removed drives are moved to the Off directory for selection<br>
 
+![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/info.png)
+![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/pci.png)
+![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/usb.png)
+![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/run.jpg)
+![image](https://github.com/xiaovie/Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-AMD-RX590/blob/master/HEVC.jpg)
