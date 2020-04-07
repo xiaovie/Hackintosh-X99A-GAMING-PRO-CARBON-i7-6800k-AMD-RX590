@@ -1,4 +1,3 @@
-# Hackintosh-X99A-GAMING-PRO-CARBON-i7-6800k-GTX1070
 http://xiaoviemc.vip/index.php/archives/194/
 Details are available on my blog
 
