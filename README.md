@@ -6,15 +6,15 @@ hackintosh
 
 macOS 10.13.6 ：
 
-声卡显卡网卡工作
+声卡显卡网卡工作<br>
 Sound card graphics card works<br>
-CPU处理器睿频工作
+CPU处理器睿频工作<br>
 CPU processor Turbo works<br>
-加载 XCPM 原生电源管理，睡眠唤醒正常
+加载 XCPM 原生电源管理，睡眠唤醒正常<br>
 Load XCPM native power management sleep wakeup works<br>
-USB2.0，3.0，3.1工作
+USB2.0，3.0，3.1工作<br>
 USB2.0, 3.0, 3.1 work<br>
-HDMI 输出 DP 输出测试正常
+HDMI 输出 DP 输出测试正常<br>
 HDMI output DP output test is works<br>
 
 <br>       
@@ -37,28 +37,28 @@ X99A-GAMING-PRO-CARBON主板请使用这个版本X99A-GAMING-PRO-CARBON motherbo
 
 #macOS 10.14.6 ：
 
-声卡显卡网卡工作
+声卡显卡网卡工作<br>
 Sound card graphics card works<br>
-CPU处理器睿频工作
+CPU处理器睿频工作<br>
 CPU processor Turbo works<br>
-加载 XCPM 原生电源管理，睡眠唤醒正常
+加载 XCPM 原生电源管理，睡眠唤醒正常<br>
 Load XCPM native power management sleep wakeup works<br>
-USB2.0，3.0，3.1工作
+USB2.0，3.0，3.1工作<br>
 USB2.0, 3.0, 3.1 work<br>
-HDMI 输出 DP 输出测试正常
+HDMI 输出 DP 输出测试正常<br>
 HDMI output DP output test is works<br>
 
 #macOS 10.15.3：
 
-声卡显卡网卡工作
+声卡显卡网卡工作<br>
 Sound card graphics card works<br>
-CPU处理器睿频工作
+CPU处理器睿频工作<br>
 CPU processor Turbo works<br>
-无法加载 XCPM 原生电源管理
+无法加载 XCPM 原生电源管理<br>
 Not Load XCPM native power management sleep wakeup works<br>
-USB2.0，3.0，3.1工作
+USB2.0，3.0，3.1工作<br>
 USB2.0, 3.0, 3.1 work<br>
-HDMI 输出 DP 输出测试正常
+HDMI 输出 DP 输出测试正常<br>
 HDMI output DP output test is works<br>
 
 
