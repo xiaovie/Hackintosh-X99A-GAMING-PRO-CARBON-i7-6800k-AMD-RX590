@@ -62,7 +62,24 @@ HDMI 输出 DP 输出测试正常<br>
 HDMI output DP output test is works<br>
 
 
-# Update 2020.04.07:
+# Update 2020.04.17:<br>
+      更新 加入驱动RadeonBoost.kext，支持RX590版本，用于注入显卡vbios，其他版本请查看以下链接https://www.tonymacx86.com/threads/amd-radeon-navi-gpu.264399/page-85<br>
+
+      Update to add driver RadeonBoost.kext, support RX590 version, used to inject graphics card vbios, other versions please check the following link https://www.tonymacx86.com/threads/amd-radeon-navi-gpu.264399/page-85<br >
+
+
+# Update 2020.04.15:<br>
+    
+
+      更新 CLOVER EFI bootloader r5112<br>
+      Update CLOVER EFI bootloader r5112 <br>
+      更新 ssdtPRGen.sh cpu变频脚本生成ssdt.aml<br>
+      Update ssdtPRGen.sh cpu frequency conversion script to generate ssdt.aml <br>
+      更改 ACPI > DropOEM 勾选<br>
+      Change ACPI> DropOEM check <br>
+      更改 Acpi > 右下角 SortedOrder 添加“ssdt.aml”，所有ssdt文件全部添加入这里进行加载<br>
+      Change Acpi> SortedOrder in the lower right corner, add "ssdt.aml", all ssdt files are added here to load <br>
+# Update 2020.04.07:<br>
 
     Update CLOVER EFI bootloader r5109<br>
     Update Lilu.kext to 1.4.3<br>
